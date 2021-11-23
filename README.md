@@ -1,8 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayushi Kumari</h1>
+<h3 align="center">An aspiring Software Engineer from India</h3>
 
 <!--
-**itsmeayushi97/itsmeayushi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**itsmeayushi97/itsmeayushi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeayushi97" /> </p>
+
+
+
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
