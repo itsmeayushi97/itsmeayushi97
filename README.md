@@ -32,9 +32,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeayushi97&layout=compact" />
 </a>
 
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeayushi97&show_icons=true&theme=synthwave" />
+</a>
+</p>
   
-  
-  
+[![Ayushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmeayushi97&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
 <!--
 Here are some ideas to get you started:
