@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeayushi97" /> </p>
 
-<p align="center">
+Connect Here: - <p align="center">
   <a href="https://twitter.com/itsayushi_97">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/ayushi-kumari-00169418b/">
