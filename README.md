@@ -11,7 +11,8 @@
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/ayushi-kumari-00169418b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /> </a>
-  
+</p>
+
 ## Languages and Tools 📝:
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -24,20 +25,19 @@
   <p align="center">
 <a href="https://github.com/itsmeayushi97/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeayushi97&layout=compact" />
-</a>  
-</p>
+</a>  </p>
 </p>
 <br>
 
 ## Stats 📈
+<p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=red&style=flat-square" alt="itsmeayushi97" /> </p>
 <p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeayushi97&" alt="itsmeayushi97-streak-count" />
+<img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeayushi97&" alt="itsmeayushi97-streak-count" />
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=itsmeayushi97&show_icons=true&theme=synthwave" />
 </p>
 
-<p align="center">
-<a href="https://github.com/itsmeayushi97/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeayushi97&layout=compact" />
-</a>
+<br>
+
   
 [![Ayushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmeayushi97&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
