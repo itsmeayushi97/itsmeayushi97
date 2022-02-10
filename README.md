@@ -21,11 +21,11 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <p>
+  <p align="center">
 <a href="https://github.com/itsmeayushi97/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeayushi97&layout=compact" />
 </a>  
-<p>
+</p>
 </p>
 <br>
 
@@ -38,12 +38,6 @@
 <a href="https://github.com/itsmeayushi97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeayushi97&layout=compact" />
 </a>
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeayushi97&show_icons=true&theme=synthwave" />
-</a>
-</p>
   
 [![Ayushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsmeayushi97&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
   
