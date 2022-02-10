@@ -4,14 +4,14 @@
 <!--
 **itsmeayushi97/itsmeayushi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeayushi97" /> </p>
-
 <p align="center"> Connect Here: -
   <a href="https://twitter.com/itsayushi_97">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/ayushi-kumari-00169418b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /> </a>
 </p>
+
+<p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=red&style=flat-square" alt="itsmeayushi97" /> </p>
 
 ## Languages and Tools 📝:
 <p align="center"> 
@@ -30,7 +30,6 @@
 <br>
 
 ## Stats 📈
-<p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=red&style=flat-square" alt="itsmeayushi97" /> </p>
 <p align="center">
 <img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeayushi97&" alt="itsmeayushi97-streak-count" />
 <img width=48% src="https://github-readme-stats.vercel.app/api?username=itsmeayushi97&show_icons=true&theme=synthwave" />
