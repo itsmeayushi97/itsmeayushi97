@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/ayushi-kumari-00169418b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /> </a>
-
-<h3 align="center">Languages and Tools:</h3>
+  
+## Languages and Tools 📝:
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -24,10 +24,10 @@
 </p>
 <br>
 
+## Stats 📈
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeayushi97&" alt="itsmeayushi97-streak-count" />
 </p>
-
 
 <p align="center">
 <a href="https://github.com/itsmeayushi97/github-readme-stats">
