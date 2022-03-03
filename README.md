@@ -13,14 +13,14 @@
     </ul>
 </div>
 
-<p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=red&style=flat-square" alt="itsmeayushi97" /> </p>
-
 Connect Here: -
   <a href="https://twitter.com/itsayushi_97">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/ayushi-kumari-00169418b/">
      <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /> </a>
 </p>
+  
+<p align="left"> <img width=140px src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=red&style=flat-square" alt="itsmeayushi97" /> </p>
   
 ## Languages and Tools 📝:
 <p align="center"> 
