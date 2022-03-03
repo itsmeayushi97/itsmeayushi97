@@ -1,9 +1,17 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ayushi Kumari</h1>
-<h3 align="center">An aspiring Software Engineer from India</h3>
-
+<h1 align="center">Hey!! <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-woman-waving-72dpi-forPersonalUseOnly.gif" height="50px" width="50px">, I'm Ayushi Kumari</h1>
+<p align="center"><b>To know more about me Just Scroll Down⬇️<b></p>
+➤About Me <img src="https://thumbs.dreamstime.com/b/speaking-woman-silhouette-icon-isolated-white-background-speaking-woman-silhouette-icon-103097243.jpg" height=30px width=30px>
+<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b76115b4f9097f1e1d8fcb5c1edbf14ba3b2fd7c24f96&rid=giphy.gif&ct=g" align="right" height=45% width=40%>
 <!--
 **itsmeayushi97/itsmeayushi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+  <div>
+    <ul>
+      <li>An aspiring Software Engineer from India.</li>
+      <li>Editorial Head at CodeChef SRM.</li>
+       <li>Discovering my Data-Structure Skills.</li>
+      <li>Passionate about Soft-Skills and Integrated Vocabulary.</li>
+    </ul>
+</div>
 <p align="center"> Connect Here: -
   <a href="https://twitter.com/itsayushi_97">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
@@ -13,7 +21,7 @@
 
 <p align="center"> <img width=140px src="https://komarev.com/ghpvc/?username=itsmeayushi97&label=Profile%20views&color=red&style=flat-square" alt="itsmeayushi97" /> </p>
 
-## Languages and Tools 📝:
+  <p align="center">➨Languages and Tools 📝:</p>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
