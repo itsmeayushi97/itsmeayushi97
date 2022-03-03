@@ -12,7 +12,7 @@
       <li>Passionate about Soft-Skills and Integrated Vocabulary.</li>
     </ul>
 </div>
-<p align="center"> Connect Here: -
+Connect Here: -
   <a href="https://twitter.com/itsayushi_97">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /> </a>
   <a href="https://www.linkedin.com/in/ayushi-kumari-00169418b/">
