@@ -7,7 +7,7 @@
   <div>
     <ul>
       <li>An aspiring Software Engineer from India.</li>
-      <li>Editorial Head at CodeChef SRM.</li>
+      <li>Former Editorial Head at CodeChef SRM.</li>
        <li>Discovering my Data-Structure Skills.</li>
       <li>Passionate about Soft-Skills and Integrated Vocabulary.</li>
     </ul>
